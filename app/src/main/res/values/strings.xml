@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cards against Mankind</string>
+    <string name="title_activity_host_screen">HostScreen</string>
+    <string name="title_activity_game_lobby">GameLobby</string>
+</resources>
